@@ -1,0 +1,13 @@
+body{
+    background-image: url(./pc.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: top;
+    font-family: arial;
+    font-size: 13px;
+    margin: 0;
+}
+#changer {
+background: white;
+cursor: pointer;
+}
